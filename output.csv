@@ -1,0 +1,2585 @@
+text,y_true,y_pred
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 1 of Language class 147 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.09341765417585, sd:7.165639736308028, max:91.14247332595274, min:68.86719755342202
+ACC: mean:42.48061111698756, sd:6.85905930294495, max:53.79212815507391, min:33.30525614065048
+EDA: mean:0.4278156435330545, sd:0.0772131251784213, max:0.5965648768921554, min:0.3075251813786543
+TEMP: mean:30.22247333347034, sd:0.2716162427618175, max:30.763069546127237, min:29.810082469030057' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 1 of Maths class 137 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:91.58464790156452, sd:10.313692573505506, max:115.2016916658962, min:79.10485570374476
+ACC: mean:41.24620211263972, sd:9.236887256071196, max:56.96792982653948, min:28.253183297726785
+EDA: mean:0.4270939518645944, sd:0.07603876627216, max:0.5214000494092093, min:0.2985152775314135
+TEMP: mean:30.25304608009036, sd:0.1671603699814124, max:30.514099698580868, min:29.988565305322005' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 1 of Health class 117 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.2799709917904, sd:7.691732547122824, max:98.0629280921444, min:71.3847993773104
+ACC: mean:31.98973694909413, sd:8.724159562159793, max:43.70598668593159, min:19.95117899335481
+EDA: mean:0.4355000572817598, sd:0.1083699161061483, max:0.59415686206579, min:0.202835549987271
+TEMP: mean:30.308303610066517, sd:0.1247610502500044, max:30.591945515414952, min:30.17809844398188' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 2 of Language class 114 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:93.96376427260424, sd:6.62012516780421, max:101.82158991037528, min:79.83064329012764
+ACC: mean:45.00337840868062, sd:9.49513810950633, max:63.26932425873622, min:32.69131227079679
+EDA: mean:0.4871520312775755, sd:0.0899262285072419, max:0.6663254723305461, min:0.3140143859020081
+TEMP: mean:30.361602426519728, sd:0.1326272319867664, max:30.69436331994087, min:30.18839159636237' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of Language class 156 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:90.87299525108048, sd:8.434023502311543, max:103.19283923641768, min:77.08066099604687
+ACC: mean:35.35896308162607, sd:9.218309720640177, max:56.0930634973311, min:23.94432980821358
+EDA: mean:0.4246786602099028, sd:0.0884117429192824, max:0.5348174212666669, min:0.3132862193539754
+TEMP: mean:30.181310450983595, sd:0.2007316876314514, max:30.445506641771185, min:29.80934357708185' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of English class 160 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:94.4703819630082, sd:9.414453321531647, max:107.8706111169944, min:79.20185646497946
+ACC: mean:42.96259829030597, sd:11.130842903196818, max:57.625871905307946, min:27.410924129433997
+EDA: mean:0.429553607026949, sd:0.0905218635016423, max:0.5058139514518506, min:0.2
+TEMP: mean:30.32787709762952, sd:0.2258321124808102, max:30.738868924578878, min:30.017346166265614' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of Politics class 148 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:90.62891822765678, sd:10.542156629864778, max:106.325570434792, min:68.72327420654389
+ACC: mean:37.80309722214048, sd:11.583354914819989, max:64.93033663980496, min:20.237536665335483
+EDA: mean:0.4753371857529263, sd:0.0873609341137984, max:0.6204105516255491, min:0.3094810153196425
+TEMP: mean:30.3926791616014, sd:0.3188661483958663, max:30.854695058362037, min:29.87403210329332' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of Politics class 160 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:90.34302811730804, sd:15.042756820136438, max:120.0, min:66.694335201928
+ACC: mean:31.10471209807856, sd:12.50126596865335, max:51.88337778208448, min:10.524951572747652
+EDA: mean:0.427842053144262, sd:0.0788844352658778, max:0.5757149216862573, min:0.2982826303328321
+TEMP: mean:30.406780771453725, sd:0.1896307645423296, max:30.762152208324103, min:30.117260931071133' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of English class 128 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.88949707802594, sd:8.845620035289143, max:97.75312458477978, min:73.33214809384323
+ACC: mean:33.04505783798656, sd:5.978818242195819, max:42.55904195170703, min:20.48171193248281
+EDA: mean:0.4803596449481327, sd:0.1019350715150625, max:0.6329620201716087, min:0.3303211353573688
+TEMP: mean:30.23615378500049, sd:0.3150923651525177, max:30.87041295913471, min:29.82921244798536' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 5 of English class 114 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:86.97822769393063, sd:13.70514440146313, max:104.76393027208204, min:63.1219134346492
+ACC: mean:34.37676725988452, sd:10.080135239880333, max:53.03419828428999, min:16.4761645539082
+EDA: mean:0.4840823366713415, sd:0.082375608142342, max:0.6261188124867374, min:0.3474247316359722
+TEMP: mean:30.36998901910088, sd:0.2969584463136865, max:30.880010180504318, min:30.0045314686448' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 5 of English class 114 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:85.81204489634484, sd:10.955429585338862, max:106.07196643637886, min:71.17341305877315
+ACC: mean:33.43763843169445, sd:10.933764416741267, max:57.53259137526568, min:20.0610750213211
+EDA: mean:0.5039974023398026, sd:0.0852300817101107, max:0.6665056067806603, min:0.3683782755458035
+TEMP: mean:30.347971237818296, sd:0.3199846547495235, max:30.8678624363557, min:29.905750879452253' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Maths class 113 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.35921461218322, sd:8.397013363860847, max:100.06608154863916, min:72.72832143410352
+ACC: mean:41.98073290928864, sd:10.445176290550542, max:58.93197932209945, min:22.881165804367864
+EDA: mean:0.3947527580479025, sd:0.0767171970938196, max:0.5231955502509846, min:0.2902127865505162
+TEMP: mean:30.289794051438825, sd:0.2133736755752162, max:30.581977248313397, min:29.86357314178509' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Maths class 110 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.7707085438752, sd:9.681504853045938, max:95.54733298067808, min:67.36596847520545
+ACC: mean:39.89288811890814, sd:9.0401489477316, max:54.99435983008709, min:27.233208725289863
+EDA: mean:0.4534923910183568, sd:0.0994484711884846, max:0.6448342644789813, min:0.2917823236653872
+TEMP: mean:30.25960054113209, sd:0.229031274772551, max:30.47896818617274, min:29.790944874286016' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Language class 112 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:89.30116581111484, sd:5.921710848919784, max:97.45211534611484, min:79.2152619865794
+ACC: mean:42.254417227147904, sd:9.824724677903538, max:58.750650393485415, min:24.12131449544198
+EDA: mean:0.4446238784258541, sd:0.0960430045744254, max:0.6445195074276933, min:0.2678913930705504
+TEMP: mean:30.33079161267505, sd:0.1959782223960259, max:30.64829531448373, min:30.048599656077634' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Politics class 158 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:86.01682904346629, sd:7.953267480844762, max:97.57839631108268, min:74.34978204573365
+ACC: mean:37.33058815923742, sd:11.920063529856074, max:53.92669998282884, min:6.295742641219444
+EDA: mean:0.4603238419090365, sd:0.0720973470630383, max:0.6104339108308596, min:0.341387370081859
+TEMP: mean:30.29513072130738, sd:0.2049582084895801, max:30.62023489416668, min:29.92568558870534' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 8 of English class 157 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:89.26379064572308, sd:14.24847584055776, max:110.31498911027748, min:64.85955933999895
+ACC: mean:39.9498991510719, sd:8.65133985296356, max:50.5228366195664, min:20.47622904859003
+EDA: mean:0.4163695712700225, sd:0.1061366634807534, max:0.5665916520255223, min:0.2833236593210802
+TEMP: mean:30.393291230648533, sd:0.1872330730780411, max:30.81345467252165, min:30.12085662789397' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 9 of Maths class 156 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:89.22742727687134, sd:9.154419242162238, max:106.16755629575104, min:75.30708894756896
+ACC: mean:38.91810919626863, sd:11.0303014484464, max:55.984800871381175, min:27.009607754681408
+EDA: mean:0.4154305363199092, sd:0.1025940422541326, max:0.5364248384698637, min:0.2
+TEMP: mean:30.292799054703494, sd:0.1512226978110705, max:30.534014041984005, min:30.075686748459688' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 9 of Science class 101 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:90.48084988719594, sd:5.853546910233955, max:100.9046074137635, min:79.46067091539945
+ACC: mean:44.7245258057135, sd:9.611979445361785, max:54.07915061119158, min:20.22319037629799
+EDA: mean:0.4478469874626466, sd:0.1068115829894924, max:0.6548708257698851, min:0.2874507729800167
+TEMP: mean:30.17199354426845, sd:0.2956871822106403, max:30.70133899059045, min:29.728555688876263' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 10 of Language class 107 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:86.97959207014478, sd:12.17737810557862, max:111.6741436402712, min:70.607948478272
+ACC: mean:38.24241486980391, sd:9.849614559941124, max:52.89599409447649, min:20.56327397603464
+EDA: mean:0.4632754421986668, sd:0.1330812422660859, max:0.7617681129208047, min:0.22253789687938
+TEMP: mean:30.309226008899365, sd:0.2312909910593809, max:30.7218870138092, min:30.040222207908062' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 10 of Language class 137 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:94.5954825317272, sd:9.4710120050721, max:112.52369912868724, min:80.62970638847302
+ACC: mean:33.32640478452902, sd:7.979721305169601, max:44.98953071717421, min:18.82651113989701
+EDA: mean:0.4823878644427785, sd:0.0826766011173391, max:0.6483633652436019, min:0.3665728656932034
+TEMP: mean:30.28738950354748, sd:0.2253619953578885, max:30.65910737988972, min:29.870581962909156' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 10 of Maths class 145 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.45613128659213, sd:11.334186850890944, max:109.24556229829014, min:60.26185060066084
+ACC: mean:38.98304851019065, sd:5.829439455962089, max:50.2885655020056, min:31.725792655736267
+EDA: mean:0.4292205915003219, sd:0.1007149844480245, max:0.622569379281477, min:0.2258084065491087
+TEMP: mean:30.37550180626728, sd:0.3458034073439551, max:30.901209385563494, min:29.70525098981169' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 10 of Politics class 118 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.91920958641722, sd:9.90019332029736, max:101.30432344378816, min:68.64570040286193
+ACC: mean:38.11836737431088, sd:9.068565347882698, max:50.85582234361679, min:21.44775287810567
+EDA: mean:0.4400664125576624, sd:0.0863059854856294, max:0.5612634305203302, min:0.3012138296509377
+TEMP: mean:30.29852566647371, sd:0.1078807197859807, max:30.441197276476917, min:30.127722050569552' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 11 of English class 109 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:88.40972903654583, sd:10.21045079394369, max:100.66661253198411, min:70.20124891791832
+ACC: mean:40.25460582719609, sd:10.729097526422931, max:57.83704135478752, min:24.7515421906726
+EDA: mean:0.4721098123489143, sd:0.1189291336046244, max:0.7005448905356895, min:0.3127590262438693
+TEMP: mean:30.34900502683239, sd:0.1710523380486164, max:30.62210840562585, min:30.06815674857602' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 13 of Maths class 110 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.46355434441426, sd:10.421314388690408, max:103.99123240836734, min:63.41830569450981
+ACC: mean:41.082243300217925, sd:11.316297344804156, max:56.4866306896655, min:24.18230811432296
+EDA: mean:0.441178392903114, sd:0.0995358110461987, max:0.5905647597507964, min:0.2397399308078978
+TEMP: mean:30.28575599516335, sd:0.2045536504093568, max:30.76604988147184, min:30.01927133063811' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 13 of Maths class 108 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:85.13840579190949, sd:11.141003938763928, max:103.74586357762342, min:64.44296509872642
+ACC: mean:38.57226460756657, sd:4.755860194755934, max:48.421905769830175, min:30.48832780376121
+EDA: mean:0.467774859056005, sd:0.1055231272838434, max:0.6407490672553269, min:0.3226162674865795
+TEMP: mean:30.37074270332081, sd:0.2684991841202839, max:30.81510567461117, min:29.88282153441347' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 15 of Language class 141 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:85.36765030254188, sd:7.43366876745055, max:96.41632255765074, min:67.73422223400564
+ACC: mean:38.32198051232557, sd:8.899837597124188, max:53.30185623796561, min:27.197329402193077
+EDA: mean:0.4108834113174834, sd:0.0862371754188867, max:0.5109951387331977, min:0.2
+TEMP: mean:30.210827501079176, sd:0.2469593938870374, max:30.619065996968388, min:29.75505283465244' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 16 of Maths class 131 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:86.47673527554608, sd:7.729805039339442, max:95.72728377919394, min:69.74384821435353
+ACC: mean:41.34124110334628, sd:8.670078789900083, max:53.40107823744032, min:21.13123048626947
+EDA: mean:0.434021999091157, sd:0.0924275613018378, max:0.6874466283283993, min:0.3093189455395128
+TEMP: mean:30.373155556116465, sd:0.2917907760669051, max:30.85056081834323, min:29.968123127365644' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 16 of Language class 112 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:88.84689281732699, sd:11.709050318744165, max:100.97940193535132, min:60.17039567656779
+ACC: mean:40.89106139407272, sd:5.69269792009662, max:51.61760913340223, min:32.132552392699886
+EDA: mean:0.4323579046316727, sd:0.102893828300339, max:0.5640895977150274, min:0.2465644132115637
+TEMP: mean:30.395479593303637, sd:0.353709741564309, max:30.925809451267373, min:29.73581872367765' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 17 of Politics class 145 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:90.15570384245568, sd:9.5834211021574, max:109.66959267246966, min:77.14858456837668
+ACC: mean:38.71238221072851, sd:10.443329876034994, max:55.3790476183525, min:24.588699673442893
+EDA: mean:0.524415068573866, sd:0.1054894806266618, max:0.689844928558807, min:0.3507340984548419
+TEMP: mean:30.42696499507332, sd:0.152911111974785, max:30.763746839370164, min:30.14095038969947' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 18 of Science class 137 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:85.48644869304408, sd:8.357336967927724, max:99.96150221526126, min:75.11648580795958
+ACC: mean:33.03336586935792, sd:13.895324476981887, max:55.63298800299569, min:9.848763100941504
+EDA: mean:0.4482129676801014, sd:0.103977964665322, max:0.5964201272523587, min:0.267448789101529
+TEMP: mean:30.381366053688424, sd:0.2098460110170019, max:30.764462537822663, min:30.06720868480576' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 19 of English class 104 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:87.0913557741154, sd:8.77403754075134, max:97.87834421307994, min:66.03553738356901
+ACC: mean:41.18151277728337, sd:8.226969445327478, max:50.559370400156965, min:28.5524714799111
+EDA: mean:0.4504288280249114, sd:0.1110830262575793, max:0.6322463342993792, min:0.2664429523129125
+TEMP: mean:30.25894394540668, sd:0.2053561883279158, max:30.53987401914986, min:29.9313053646904' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 19 of English class 101 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.05573204548514, sd:8.056017000926158, max:95.35680763759731, min:69.83733499866004
+ACC: mean:41.62516592207733, sd:6.35820821716737, max:51.83424078555975, min:28.41920620358639
+EDA: mean:0.4823626083381566, sd:0.0698985583106301, max:0.6037854951326482, min:0.3915506567205601
+TEMP: mean:30.373134664141634, sd:0.1258172679767678, max:30.5461424614893, min:30.180950209900253' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 19 of Maths class 152 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:92.94228382660091, sd:9.68574185018421, max:110.03309815257758, min:76.66053664032196
+ACC: mean:32.09369533931058, sd:14.685352128465397, max:58.92098571617909, min:1.64799772459898
+EDA: mean:0.4289620866598068, sd:0.0823147819388698, max:0.5697423199804907, min:0.2540818391264023
+TEMP: mean:30.30810555652609, sd:0.2668604277472695, max:30.72143604799349, min:29.75470619058358' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 20 of English class 126 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:91.4868194685124, sd:9.737416680800306, max:113.27010418328604, min:80.26585073384985
+ACC: mean:40.28124941577392, sd:9.601881765880668, max:59.42711034464186, min:27.75105100619133
+EDA: mean:0.4602500853425275, sd:0.1075211377889035, max:0.6963013688775024, min:0.2569913130676567
+TEMP: mean:30.26036214252041, sd:0.3004335358069454, max:30.80272575885336, min:29.672444464739897' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 22 of Science class 126 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.76968066013264, sd:11.77858210468947, max:104.54513280865034, min:63.58293013097513
+ACC: mean:40.03949218535142, sd:11.428906321898332, max:58.97127212373027, min:26.21058597892621
+EDA: mean:0.4339509400569622, sd:0.1063641571574913, max:0.6298414979164819, min:0.2650591994121594
+TEMP: mean:30.37785283289272, sd:0.1863812146722343, max:30.702019283863383, min:30.04857622817045' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 23 of Health class 134 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:89.2232262640639, sd:6.102564258619407, max:97.02325761130386, min:74.73565172692004
+ACC: mean:39.347322209988725, sd:12.57300299846086, max:55.55311070633304, min:14.785146579224218
+EDA: mean:0.427090043112414, sd:0.0676139435918717, max:0.5553069717594913, min:0.3180828042167876
+TEMP: mean:30.354987224204883, sd:0.2665279641511735, max:30.87952556511595, min:30.004526506407004' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 24 of Language class 131 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:85.36382154784887, sd:6.215608409495085, max:97.68744621167252, min:77.21635836205135
+ACC: mean:36.48330150158424, sd:7.783846308409492, max:47.63951251054712, min:26.19373954704889
+EDA: mean:0.4866962421865163, sd:0.0865859731589491, max:0.6162706016003496, min:0.3612837411637145
+TEMP: mean:30.40473580310876, sd:0.2658107923438976, max:30.683203283080857, min:29.88380274964181' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 24 of Health class 146 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.13491073646058, sd:13.24444430045254, max:111.91873389457284, min:68.69166399275917
+ACC: mean:34.66537409492679, sd:7.948101708233937, max:53.68533938709327, min:24.616581746780604
+EDA: mean:0.4734067159118941, sd:0.1184808068195288, max:0.7206687940975501, min:0.3017926724517574
+TEMP: mean:30.22675570621548, sd:0.2959595907459719, max:30.81779282563328, min:29.864830140878155' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 25 of Language class 132 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.59270403225489, sd:8.910907250254708, max:93.746929937076, min:62.740387182306215
+ACC: mean:43.22501324152572, sd:5.719287465001171, max:51.78229846670149, min:34.72392473907888
+EDA: mean:0.5020104543867029, sd:0.0778727757901936, max:0.5926536154406641, min:0.3247588815514455
+TEMP: mean:30.256468892258503, sd:0.1891150836033181, max:30.58161443928229, min:29.924393850589112' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 25 of Politics class 120 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:86.873114985297, sd:10.243840414332531, max:99.87127252408024, min:65.94064820085622
+ACC: mean:38.1799354834494, sd:8.488592671358363, max:52.74693985345682, min:26.184692466698444
+EDA: mean:0.4028407238102399, sd:0.0838706172008129, max:0.5030489798529872, min:0.2647657496890124
+TEMP: mean:30.22585749918386, sd:0.2725300995576717, max:30.644315975953308, min:29.840877790357396' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 26 of Science class 105 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:88.88913389033502, sd:9.648033239623668, max:108.29089859949066, min:75.67801533686895
+ACC: mean:42.88972556756975, sd:11.058528805625633, max:58.38641925048266, min:19.953970906107767
+EDA: mean:0.42724300664313, sd:0.0955074679915286, max:0.5576178733604915, min:0.2811407799372593
+TEMP: mean:30.227696444608405, sd:0.2809243365485898, max:30.63646776459391, min:29.66710421787469' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Politics class 104 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.49107848021065, sd:11.887434391856464, max:102.76753729848927, min:61.75588833956115
+ACC: mean:38.6164019287521, sd:10.400084414381173, max:56.4187800209124, min:14.619912832084488
+EDA: mean:0.4472851971330963, sd:0.0590698563900892, max:0.5453088054992494, min:0.3282196694677415
+TEMP: mean:30.22070237364577, sd:0.1049463308671084, max:30.35551088703652, min:30.036203513842207' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Health class 137 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:88.55949485273702, sd:12.488376591020588, max:102.74460326606837, min:60.0
+ACC: mean:38.91802213287242, sd:7.430079928934866, max:47.0271314828497, min:27.075964719552044
+EDA: mean:0.4776013448819792, sd:0.0809917112780919, max:0.5888088236640302, min:0.319178080210363
+TEMP: mean:30.38525087668325, sd:0.2146712210370158, max:30.77797354112436, min:30.11181062578573' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Language class 100 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:92.36698181158724, sd:7.268000760230137, max:104.7165943664861, min:78.58382234416298
+ACC: mean:42.1618401823878, sd:10.591412719772292, max:63.111325476900085, min:28.739378356509867
+EDA: mean:0.4229956584451071, sd:0.1004513538056802, max:0.5790510997627993, min:0.2
+TEMP: mean:30.35043042644641, sd:0.2189375867465609, max:30.6474438238302, min:29.98395310100208' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Language class 100 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:90.53029251874308, sd:7.633536480614962, max:102.33750034214236, min:75.51725243970273
+ACC: mean:36.79410457106208, sd:11.819674306025943, max:55.83914198183149, min:19.07028923078193
+EDA: mean:0.5079698658891649, sd:0.0822214033139048, max:0.6162412597822258, min:0.39459844667533
+TEMP: mean:30.323488856657445, sd:0.242015548730311, max:30.657754945031314, min:29.877994538850785' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Language class 137 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:89.41095678817304, sd:10.629882913931173, max:107.16454321016352, min:71.77293429256132
+ACC: mean:33.94589341021962, sd:11.105194998976987, max:57.14904504978405, min:20.400480739278706
+EDA: mean:0.4164255768658496, sd:0.0703804561910068, max:0.5203807382251575, min:0.3322163644923696
+TEMP: mean:30.34060673692172, sd:0.1668450179577418, max:30.584964151090425, min:30.042717580480424' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Language class 111 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:87.43536488406326, sd:9.09380341985444, max:107.22036939606548, min:72.38657016900112
+ACC: mean:34.122727599292894, sd:5.080674929721454, max:41.07027517929363, min:23.87416817455939
+EDA: mean:0.4616916980860964, sd:0.1000141272669081, max:0.6148412607694487, min:0.3365025835100743
+TEMP: mean:30.3273821137574, sd:0.1017144115895721, max:30.508282582099586, min:30.194845164385995' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 29 of Maths class 142 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:89.9942068808749, sd:8.091354903801438, max:98.48083664571884, min:68.37008092347278
+ACC: mean:40.38175825515403, sd:9.94073650231816, max:54.10484735323203, min:19.79124448181931
+EDA: mean:0.4612342671379468, sd:0.060673530905445, max:0.562952342945363, min:0.3744516606463083
+TEMP: mean:30.364292060282043, sd:0.1798074954751663, max:30.609449125952903, min:30.03548457067737' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 30 of Health class 100 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:90.74289594429862, sd:9.770394844644816, max:106.19636571611568, min:73.3712216319257
+ACC: mean:38.25154931680367, sd:11.710657766928811, max:53.293306536917015, min:15.551107060415733
+EDA: mean:0.4525553898762018, sd:0.1181230839047564, max:0.639918532083687, min:0.2768342476027345
+TEMP: mean:30.20233720937268, sd:0.1995079472952697, max:30.49730562476512, min:29.93407819745812' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 30 of English class 105 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:89.09554875244024, sd:6.989981068334729, max:99.05935461957708, min:75.50764480427367
+ACC: mean:40.71463195540885, sd:5.689007879074059, max:49.893913786129296, min:32.69461681707318
+EDA: mean:0.4162604066632122, sd:0.0854331370166033, max:0.5663871045544312, min:0.2926565161009486
+TEMP: mean:30.200658499231604, sd:0.1920829964891548, max:30.46221188515616, min:29.87806464796891' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",engagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 2 of Health class 136 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.02386390847826, sd:8.740857860174, max:89.3637346122448, min:60.0
+ACC: mean:16.950510339152153, sd:11.77010806040039, max:40.60361026032338, min:1.897068560048929
+EDA: mean:0.8128611180240422, sd:0.1590947123792114, max:1.0948347185428875, min:0.6715709959270098
+TEMP: mean:30.012043917173557, sd:0.3147909391530321, max:30.64267517248493, min:29.629442321138004' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 2 of Politics class 113 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.07356836074158, sd:12.349291893494916, max:102.69839142801902, min:65.22902881611134
+ACC: mean:16.905428411261518, sd:21.083938960317507, max:49.085349322201296, min:-13.694558615653968
+EDA: mean:0.7799972845579047, sd:0.1060876288333197, max:0.9716295121582892, min:0.6272701674866539
+TEMP: mean:30.0651148828546, sd:0.3816597643298135, max:30.74893239821697, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 3 of Science class 116 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:73.27696881838602, sd:10.5618878827083, max:95.26714798869942, min:60.0
+ACC: mean:17.225562165579795, sd:11.763924598808975, max:39.37822899230815, min:-3.2227162408764443
+EDA: mean:0.8132713819094087, sd:0.1109663755611109, max:1.0349822902342822, min:0.6038206042994038
+TEMP: mean:30.110164680990003, sd:0.271624078696226, max:30.48747823425044, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 3 of Language class 133 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:69.63742466270502, sd:7.904883847475716, max:82.49267016855273, min:60.0
+ACC: mean:15.553951831736788, sd:9.572419402955669, max:38.17855201184049, min:3.1964412171203893
+EDA: mean:0.7568886027064773, sd:0.1510679319775965, max:0.963412220414991, min:0.3841774262585356
+TEMP: mean:30.19743288798987, sd:0.2285442664256347, max:30.532645752632178, min:29.883821836597978' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 3 of English class 146 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:72.5352020749574, sd:9.170341741090503, max:90.58824181794223, min:60.0
+ACC: mean:26.733112972316537, sd:16.21530148944004, max:61.427077589032486, min:-3.2546306755592056
+EDA: mean:0.7158564002216812, sd:0.1327369784840195, max:0.9734795157903124, min:0.5035216783268749
+TEMP: mean:30.13524851262616, sd:0.2908772466343365, max:30.681514558004807, min:29.6589423321896' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of Health class 103 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:74.85613468825252, sd:10.037226198283738, max:89.1764013819742, min:60.0
+ACC: mean:21.120636817365188, sd:12.25366347959799, max:31.622196239765675, min:-9.640298217727905
+EDA: mean:0.8578343401036443, sd:0.106200060213333, max:1.0518405668551147, min:0.6972878646429401
+TEMP: mean:30.08284271392764, sd:0.3467801344890015, max:30.636328703637343, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of Health class 127 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:74.51572677500313, sd:11.387194562323774, max:95.8473119907697, min:60.0
+ACC: mean:11.118954763655918, sd:14.383092452639078, max:40.01549520771585, min:-14.77085940987331
+EDA: mean:0.7679218801068439, sd:0.1706536315611846, max:1.1117515013367631, min:0.5017668845657556
+TEMP: mean:30.110458408051237, sd:0.2562331678181491, max:30.630737919338756, min:29.665383798581438' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 4 of Science class 125 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:75.09126543556405, sd:8.703599052036482, max:87.35357917989302, min:60.0
+ACC: mean:13.924182541249577, sd:19.31364525087183, max:39.94147421628594, min:-17.40725466456874
+EDA: mean:0.7554090785032435, sd:0.1604909416211417, max:0.9974221341485882, min:0.4695275490701754
+TEMP: mean:30.08037362828557, sd:0.3054335114985518, max:30.679392489580906, min:29.67668307260342' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 5 of Health class 135 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.97240957504775, sd:8.632760609770587, max:89.23602486847174, min:61.42717996006449
+ACC: mean:19.708912731006382, sd:23.403540864194717, max:69.63125500200184, min:-15.44222612516917
+EDA: mean:0.7845641028813573, sd:0.1283222865770213, max:1.0411826154695625, min:0.6143078437509351
+TEMP: mean:30.201193179638118, sd:0.2630143605636382, max:30.574404980386923, min:29.779304064802695' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 5 of Health class 134 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.71897269551286, sd:12.953836729302996, max:97.1501220217099, min:60.0
+ACC: mean:10.627722001927705, sd:24.726623062419325, max:55.22231408694394, min:-26.8788747659414
+EDA: mean:0.8141958468577464, sd:0.1355809843252184, max:0.9699811288917904, min:0.5832629625729673
+TEMP: mean:30.042728203176463, sd:0.4136374202147876, max:30.97904479305455, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 5 of English class 106 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:77.61212385020136, sd:7.221815902954683, max:86.61833654105106, min:65.13904749652727
+ACC: mean:24.33786201906313, sd:18.614496902633142, max:62.73341850022005, min:-2.1518303108970365
+EDA: mean:0.7833440140871101, sd:0.1226883135552524, max:0.9678925118229268, min:0.612551862138987
+TEMP: mean:30.14413641789332, sd:0.4910654369015457, max:31.0, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 5 of Science class 103 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:65.71593021347624, sd:5.982130575436685, max:77.0422985147399, min:60.0
+ACC: mean:9.191118366208528, sd:17.658948323973448, max:32.59437562065078, min:-17.433075841884964
+EDA: mean:0.772241888271435, sd:0.1073219205289931, max:0.9272836639439942, min:0.5735739995167829
+TEMP: mean:30.024878707454512, sd:0.2879031582460861, max:30.5331788151292, min:29.601958776158416' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Science class 103 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:75.3359991974453, sd:6.707593077781691, max:87.26270906326388, min:67.34108335774154
+ACC: mean:20.64883151755685, sd:17.747592010581766, max:50.37705033032361, min:-1.7193489992201236
+EDA: mean:0.7323429984579815, sd:0.1702560773672261, max:0.9957539598406412, min:0.3553904794756405
+TEMP: mean:30.123207330678238, sd:0.2145867345069822, max:30.494723087721862, min:29.838576850225444' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Maths class 118 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:67.18939380057532, sd:7.044379264707096, max:79.30686427505559, min:60.0
+ACC: mean:22.80089822399546, sd:10.685952144173417, max:37.29473757381235, min:2.1729099165842136
+EDA: mean:0.7436587155814633, sd:0.1397655860249476, max:0.9554551661481276, min:0.5800822573098383
+TEMP: mean:30.010391984203643, sd:0.3168677283523717, max:30.51070479682136, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Politics class 103 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:71.33249113565634, sd:10.2861752345104, max:93.8465268953018, min:60.0
+ACC: mean:20.30866131334441, sd:18.07770525544823, max:48.942731031152775, min:-4.125304760407492
+EDA: mean:0.7711315011212139, sd:0.1176675337577307, max:0.9289669418776542, min:0.5880236328327769
+TEMP: mean:30.145844117315296, sd:0.2958291261169536, max:30.558567167828315, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of English class 134 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:71.72066637610605, sd:9.111132035656196, max:89.30334006962268, min:60.0
+ACC: mean:22.165217740081957, sd:15.665664073176137, max:47.43119510149535, min:-1.6585486817171962
+EDA: mean:0.7934409322435753, sd:0.1325863260707508, max:1.0089339818453449, min:0.6169005811716344
+TEMP: mean:29.84172517248992, sd:0.3343199772320626, max:30.393217477541302, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 7 of Science class 113 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:69.27319395363027, sd:10.324148353783556, max:92.4492249367094, min:60.0
+ACC: mean:20.335436049422576, sd:17.150214566056583, max:59.844119505350726, min:-1.246580887591442
+EDA: mean:0.7572342975875922, sd:0.0921952493938673, max:0.904315348713522, min:0.5889467011623372
+TEMP: mean:30.146133459745226, sd:0.4298858268384945, max:30.988783567974004, min:29.546150209091728' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 9 of Maths class 156 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:74.63729996220236, sd:10.605727822504011, max:90.48529487732009, min:60.0
+ACC: mean:18.4582894022329, sd:9.86309356860122, max:38.15438001396086, min:3.5562592824329364
+EDA: mean:0.659486950647751, sd:0.1536037094202469, max:0.8372672655942544, min:0.3488149307768789
+TEMP: mean:30.176945570162395, sd:0.2990863208222784, max:30.590703264071696, min:29.60899684497725' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 10 of Maths class 120 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:70.07990348892162, sd:11.43706656953235, max:96.02912961173756, min:60.0
+ACC: mean:19.820014507283936, sd:14.74006882340493, max:46.67335372849286, min:1.9522171826189163
+EDA: mean:0.7485986947382101, sd:0.1584823873099243, max:1.0581290761884103, min:0.5375596710989089
+TEMP: mean:30.340366654491696, sd:0.4475900930631908, max:31.0, min:29.784302572694884' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 10 of Maths class 112 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:79.715068700671, sd:11.912239712269749, max:101.02533335176156, min:60.0
+ACC: mean:19.551245555297108, sd:17.87524284260738, max:41.590906430642335, min:-8.72288625455375
+EDA: mean:0.745473789745285, sd:0.1511897285285459, max:0.9181450535421568, min:0.4541866460034273
+TEMP: mean:30.211383138983024, sd:0.4287163388739725, max:30.855692404111156, min:29.604566576580204' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 10 of Maths class 160 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:72.35788740759565, sd:9.496854037164605, max:91.16876751865948, min:60.0
+ACC: mean:20.376901710352147, sd:15.30517101178074, max:47.46748334386936, min:3.957410135020108
+EDA: mean:0.7583195152532097, sd:0.1165738801996883, max:1.033391819325599, min:0.6106610276308905
+TEMP: mean:30.39599164379236, sd:0.3680691429426431, max:30.873449483011964, min:29.80770642360972' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 11 of Maths class 115 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.32632634338528, sd:10.088019544556454, max:92.3714853565121, min:60.0
+ACC: mean:10.997891461111214, sd:13.210858659021408, max:36.18682763909874, min:-13.405686976895428
+EDA: mean:0.751869053098363, sd:0.1326565687830114, max:1.038942878228309, min:0.5456934943717864
+TEMP: mean:30.18583186580646, sd:0.3323426556692717, max:30.85190390232544, min:29.634847326971794' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 11 of Science class 112 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:73.50403812516592, sd:9.26837044382406, max:91.77453126940408, min:60.0
+ACC: mean:12.87891994452973, sd:21.23285725692713, max:47.10680864139029, min:-21.652440357702936
+EDA: mean:0.8012486268495819, sd:0.1682259902543394, max:1.095891987895161, min:0.5400986751226844
+TEMP: mean:30.23469702166412, sd:0.3050318723446021, max:30.649370005428825, min:29.538353246570768' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 11 of Health class 115 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:69.02389745964372, sd:8.803448546875819, max:89.73745471319381, min:60.0
+ACC: mean:25.57608644775857, sd:17.7472396972464, max:74.83988309479736, min:11.206378779654068
+EDA: mean:0.7575812948590429, sd:0.1666258377304227, max:1.0576870414904196, min:0.4568110493275086
+TEMP: mean:30.22950703301216, sd:0.2415306073553457, max:30.611600955689998, min:29.870365967398023' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 12 of English class 129 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:67.96991257505177, sd:10.362958581091144, max:94.42879804413911, min:60.0
+ACC: mean:16.73396839541413, sd:9.221156354025515, max:30.952790957248048, min:4.653031501570951
+EDA: mean:0.7230095690107118, sd:0.1273964569252368, max:0.9407849318135916, min:0.5014284622301544
+TEMP: mean:30.018550545251543, sd:0.2768306857350705, max:30.47028624984358, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 12 of Maths class 108 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:73.19974863203807, sd:10.519187551250871, max:98.89111867446952, min:60.1376519056092
+ACC: mean:14.147714843019935, sd:16.431874189165327, max:48.29966236669553, min:-6.323227248571822
+EDA: mean:0.7980333905814782, sd:0.1162593338289489, max:1.026272341407991, min:0.6017995772995589
+TEMP: mean:30.010516794709808, sd:0.2644785260481269, max:30.46777100166524, min:29.676240080679797' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 12 of Health class 157 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:75.91593528206401, sd:10.762726673617864, max:96.1626515357844, min:60.0
+ACC: mean:16.331209350459883, sd:17.892338456035358, max:35.89946150773652, min:-21.45561581303785
+EDA: mean:0.7007714149602575, sd:0.0820417782572508, max:0.8125309593885061, min:0.4942821141314828
+TEMP: mean:30.28128242288916, sd:0.1988645669983434, max:30.589245507461023, min:29.938000299999967' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 12 of Language class 121 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:71.15415946978368, sd:9.50675179360882, max:92.80850345307144, min:60.0
+ACC: mean:18.536753702451943, sd:18.422335009576443, max:50.49750323555605, min:-10.569385254212172
+EDA: mean:0.7549310713051773, sd:0.1526975054945597, max:1.0540225674063588, min:0.4531471959765432
+TEMP: mean:30.09878936538465, sd:0.2935237224224389, max:30.639891523980943, min:29.603042992505177' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 14 of Language class 159 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:71.56949111643667, sd:9.759939451419552, max:89.33212094375935, min:60.0
+ACC: mean:23.25305415262252, sd:17.86071383783242, max:57.08147149912491, min:-2.3947622527943158
+EDA: mean:0.755949184811729, sd:0.1525267989939579, max:0.9711723011067384, min:0.4816481414247838
+TEMP: mean:29.923446745022847, sd:0.3037278900559223, max:30.64682407828063, min:29.533412099804742' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 14 of Politics class 104 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:74.50546694663875, sd:6.978148073761855, max:83.20107545371037, min:60.0
+ACC: mean:22.85807764693281, sd:24.85318202669206, max:60.47305666380187, min:-16.966270285873314
+EDA: mean:0.685374429091216, sd:0.1941161113175712, max:0.9005048839093719, min:0.24366313497336
+TEMP: mean:30.088481447244693, sd:0.3076561096104835, max:30.72205316881066, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 15 of Language class 144 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.02606734272858, sd:6.064019637436283, max:85.34344033032491, min:67.40286094608247
+ACC: mean:21.62311954228712, sd:16.54504756170204, max:48.19031267354022, min:-8.133025413031831
+EDA: mean:0.7369154333032693, sd:0.2210025713104404, max:1.1572225409229482, min:0.3349011866096403
+TEMP: mean:30.060378540342025, sd:0.1634407101277291, max:30.206040155755552, min:29.640265270576105' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 15 of Maths class 134 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.46845448685808, sd:14.46150222326282, max:112.53321889547234, min:60.0
+ACC: mean:24.740831287597207, sd:11.633274706246972, max:46.86663339840474, min:3.6579378119548434
+EDA: mean:0.7697869847300469, sd:0.0996399759476406, max:0.9576757443976552, min:0.6726796090374212
+TEMP: mean:30.259989651962503, sd:0.3091203082513359, max:30.64399885456386, min:29.63055909546714' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 15 of Politics class 117 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.89406766015038, sd:11.277496990116507, max:92.14288757218507, min:60.0
+ACC: mean:22.28775333301888, sd:21.113678178529007, max:45.171431868579376, min:-35.40155523733315
+EDA: mean:0.7097597768905322, sd:0.1309465402447298, max:0.9822012331228038, min:0.4974926800435761
+TEMP: mean:29.89872438215657, sd:0.3725942805889957, max:30.83678032376708, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 16 of Science class 130 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:71.59786841912185, sd:7.940881806946337, max:80.04824604871479, min:60.0
+ACC: mean:11.1838639217687, sd:19.861161229405905, max:35.094606917001656, min:-25.74220276309241
+EDA: mean:0.7111337637989565, sd:0.1015957835885882, max:0.8775054592784355, min:0.5466687208253811
+TEMP: mean:30.021096047789843, sd:0.2413197750888218, max:30.423525078809103, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 16 of Science class 119 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:70.64204171556679, sd:8.585917416228959, max:83.03113310017551, min:60.0
+ACC: mean:20.051537826566488, sd:13.76702725518181, max:42.36212810657013, min:-1.1203257121791168
+EDA: mean:0.7104727176973513, sd:0.1195730080427188, max:0.9255288501105844, min:0.5211577604932134
+TEMP: mean:30.204910295843128, sd:0.2723018570411251, max:30.837429063792115, min:29.826858387924982' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 17 of Language class 135 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:73.38994296795104, sd:6.664431956241651, max:86.59398932138706, min:61.769128935042005
+ACC: mean:11.454391629229296, sd:18.854797180490912, max:36.95618614542845, min:-26.471939091829213
+EDA: mean:0.7660327869365126, sd:0.0836605145819371, max:0.9134069754231912, min:0.6600525732823602
+TEMP: mean:30.126556177702884, sd:0.4361975263575255, max:30.76002598076993, min:29.505542301059915' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 18 of Health class 106 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:74.05767581200709, sd:8.538501251444128, max:86.11470848110235, min:60.0
+ACC: mean:17.796201463534185, sd:19.73708469709154, max:53.50544591484429, min:-6.198228086949932
+EDA: mean:0.6806863846387547, sd:0.130490875698833, max:0.9483822694247492, min:0.4358343709927645
+TEMP: mean:30.092819655008448, sd:0.4720361537288119, max:30.806719738448944, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 18 of Language class 113 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:69.13483132940158, sd:8.010105392551113, max:86.4998794313668, min:60.0
+ACC: mean:20.926234977239933, sd:24.547622711726746, max:56.66830563523753, min:-19.76737433888163
+EDA: mean:0.7907803918550532, sd:0.2492315753378048, max:1.2, min:0.3069264771899063
+TEMP: mean:30.239812164176847, sd:0.3666249237835127, max:30.74034690871244, min:29.5997565921151' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 18 of Science class 128 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:71.21288393239044, sd:6.541116114289665, max:83.03290114504377, min:60.0
+ACC: mean:15.49842102611855, sd:17.123144332472396, max:50.97815293639143, min:-4.8375181368231
+EDA: mean:0.7610892132735965, sd:0.219906332086699, max:1.0916533389046397, min:0.4161096873062883
+TEMP: mean:30.00113850888335, sd:0.3064655334807197, max:30.66066457705649, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 19 of Maths class 156 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:72.79155357783709, sd:9.489150135458724, max:86.53967550779001, min:60.0
+ACC: mean:14.992077875923863, sd:24.687761515791543, max:53.73407764208442, min:-24.047165138425846
+EDA: mean:0.7784800881834573, sd:0.078131285489146, max:0.908404555734857, min:0.6715828175150743
+TEMP: mean:30.04337479427617, sd:0.2859267401289965, max:30.450654644739384, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 19 of Politics class 143 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:68.13887060092233, sd:7.961571582177947, max:80.66305502890046, min:60.0
+ACC: mean:24.80781780726107, sd:13.616138482068884, max:41.42033733921431, min:-2.077560063543711
+EDA: mean:0.7561258597595637, sd:0.1284250357007127, max:0.9435637986925294, min:0.530293997757365
+TEMP: mean:30.167639140486823, sd:0.4618052931780438, max:31.0, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 20 of Maths class 160 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:74.62320352619912, sd:10.866278426437455, max:90.56773179705216, min:60.0
+ACC: mean:11.313855282265768, sd:18.51161077515272, max:50.63232997185748, min:-11.034302644385445
+EDA: mean:0.7492790861838425, sd:0.1516876552638449, max:0.8832235982615162, min:0.4808334622366648
+TEMP: mean:30.09180662946688, sd:0.2750271803868619, max:30.67807363204006, min:29.777291486187988' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 20 of Language class 110 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.22968475787411, sd:13.7371302782194, max:104.98538899092078, min:60.0
+ACC: mean:17.486428492484585, sd:17.233240518249065, max:39.93597379420058, min:-10.320245092903312
+EDA: mean:0.6995244127630025, sd:0.1359925100340063, max:0.9311138623734972, min:0.4495577379202211
+TEMP: mean:30.163158538463904, sd:0.2353893850769925, max:30.516626496913226, min:29.664714410033906' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 21 of Maths class 115 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:69.40992867470881, sd:8.646785175169093, max:84.32405294145188, min:60.0
+ACC: mean:21.32207220703552, sd:22.545293476826892, max:54.16036954373031, min:-28.213846375302
+EDA: mean:0.8052767860040783, sd:0.1135067014875938, max:0.9896512495057476, min:0.600428467982147
+TEMP: mean:30.096499163296563, sd:0.3071685140351803, max:30.63221031561713, min:29.632147270548685' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 21 of Language class 146 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:72.84823667500108, sd:12.08944222776185, max:96.94988038160164, min:60.0
+ACC: mean:14.787072475612645, sd:18.37128273195133, max:60.13300700746219, min:-7.971994333038484
+EDA: mean:0.7757777967518725, sd:0.1691258334671186, max:1.000948455426743, min:0.5472678818603649
+TEMP: mean:30.07055711718211, sd:0.3851500160618087, max:30.617364377473653, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 22 of Maths class 156 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:72.55664231585094, sd:9.263518930395117, max:86.79646960141135, min:60.0
+ACC: mean:14.76292029846717, sd:15.117857074775907, max:40.00221461642354, min:-17.101712880337665
+EDA: mean:0.6724343805051739, sd:0.1076636918394231, max:0.8805267262120156, min:0.5317066536148176
+TEMP: mean:30.051941601924984, sd:0.4089858009408959, max:31.0, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 22 of Science class 115 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:75.5547964919052, sd:7.886459671245642, max:84.41758956631483, min:60.0
+ACC: mean:22.95584663783673, sd:18.840665967110777, max:48.51928474649742, min:-18.84900393294248
+EDA: mean:0.7541159521322879, sd:0.1716593185291028, max:1.0454485027426643, min:0.5190561458691059
+TEMP: mean:30.07725757203629, sd:0.304449319560053, max:30.68939021052427, min:29.69399286631985' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 23 of Maths class 155 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:72.42943721625963, sd:11.455110591466042, max:91.8436225923583, min:60.0
+ACC: mean:15.032208050453011, sd:15.988687551578987, max:42.6274024274744, min:-12.978848261333932
+EDA: mean:0.7753824115815954, sd:0.1216899163364751, max:1.0673656214344476, min:0.6059984216718257
+TEMP: mean:30.070112024400835, sd:0.3578642891445019, max:30.43988091843377, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 25 of Language class 156 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:71.00778673529344, sd:11.20099834772201, max:100.94851984708616, min:60.0
+ACC: mean:21.12625109706277, sd:18.18780953628645, max:56.40562088427414, min:-7.597355893664879
+EDA: mean:0.6983737168651698, sd:0.0935574174134324, max:0.9277043696821504, min:0.5791415000790434
+TEMP: mean:30.145892234943243, sd:0.4124564950761322, max:30.66909228600224, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Health class 121 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:70.78253319967656, sd:8.373425310170871, max:82.80246784140593, min:60.0
+ACC: mean:23.20501597824517, sd:9.944941969504512, max:34.727608569736894, min:9.20336453582177
+EDA: mean:0.8222118987006259, sd:0.1433457745883954, max:1.1270465202313351, min:0.6257387839141848
+TEMP: mean:30.074959671653907, sd:0.3435915736156286, max:30.61119482245424, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Science class 102 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:70.52491241210136, sd:9.216958294955669, max:84.28120146677412, min:60.0
+ACC: mean:22.321537110311347, sd:15.307311875653136, max:44.44584191508581, min:-5.799113219520152
+EDA: mean:0.7544340225791398, sd:0.1313173213933822, max:0.9676064886201636, min:0.5086610175831594
+TEMP: mean:30.04390913232683, sd:0.2831721863478582, max:30.47140695633085, min:29.539760911844407' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 28 of Politics class 140 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:73.78129048297043, sd:10.95202024303387, max:93.31016273749437, min:60.0
+ACC: mean:15.192034161137771, sd:13.80586723397032, max:33.50553047777262, min:-17.174704325919137
+EDA: mean:0.75842693414837, sd:0.2000996980088869, max:1.1016629081645697, min:0.3871306292886366
+TEMP: mean:30.163785200881, sd:0.3182075833687964, max:30.75535703128305, min:29.77020858213712' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 28 of English class 127 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:70.4076923254572, sd:10.013977724353, max:90.77497489268896, min:60.0
+ACC: mean:16.753679319999105, sd:15.377340694567875, max:38.7678337035942, min:-6.437384009080326
+EDA: mean:0.7031937292533904, sd:0.1644705538420545, max:1.0353644820706798, min:0.5090818678697813
+TEMP: mean:30.18637177080011, sd:0.3108756716013651, max:30.659849542724707, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 28 of Science class 107 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:73.1527392429268, sd:9.6494476135871, max:88.02414428084451, min:60.0
+ACC: mean:18.11662291706842, sd:16.21380315296663, max:44.96490512165872, min:-7.209403038552821
+EDA: mean:0.7589768836394664, sd:0.152430368490737, max:0.9464635748811054, min:0.4311819603083786
+TEMP: mean:30.13752347339153, sd:0.3143122669132271, max:30.671285840614605, min:29.70193092978645' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 29 of Science class 143 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:72.26520448500587, sd:8.42503088456183, max:89.82480628284506, min:60.0
+ACC: mean:20.60081804697344, sd:16.164206957015264, max:45.050887534492446, min:-9.74443779020661
+EDA: mean:0.7569873681748077, sd:0.155019705739601, max:0.982511823594164, min:0.5719169385385666
+TEMP: mean:30.147897312839547, sd:0.2636084915311808, max:30.79306871959136, min:29.773881651903817' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",disengagement,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 1 of Politics class 128 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:82.1936062257515, sd:11.944936458871652, max:98.61382370627028, min:61.59062995117253
+ACC: mean:24.43831687355772, sd:9.165633800936678, max:36.71989905286498, min:5.678012776878859
+EDA: mean:0.6168821929211534, sd:0.1375152979291134, max:0.7972897509858385, min:0.3389512616292263
+TEMP: mean:30.118750415376383, sd:0.3690944846053051, max:30.688584663671385, min:29.58823034667197' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 2 of Language class 124 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:73.49571328878037, sd:10.544400448046476, max:90.08772258786468, min:60.0
+ACC: mean:33.43395554315789, sd:13.315563977659943, max:53.21316606075142, min:7.969148570347325
+EDA: mean:0.5646554230046703, sd:0.0930135650758099, max:0.7304077962120581, min:0.4109962372968949
+TEMP: mean:30.15184097557741, sd:0.2978822908720326, max:30.739305958054857, min:29.587479539472717' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 3 of Politics class 156 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.12621047708703, sd:13.256934058422976, max:105.07446466033728, min:60.7080676745833
+ACC: mean:27.3038741478551, sd:13.177351969822263, max:50.12756961195723, min:10.39390997519537
+EDA: mean:0.5312229219142782, sd:0.1298522270981953, max:0.7340120441555591, min:0.2845765706404592
+TEMP: mean:30.180329848464247, sd:0.299792440687689, max:30.80729288698605, min:29.720562694434875' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 3 of Science class 146 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.9467605524003, sd:7.831117989578007, max:90.68459796223743, min:61.78551503983029
+ACC: mean:33.71156314412661, sd:10.039717924415095, max:51.44289406686552, min:12.7161877340496
+EDA: mean:0.5378733785649153, sd:0.1108369860391517, max:0.6816583254104436, min:0.2915988496154507
+TEMP: mean:30.22622838106766, sd:0.2810540790875126, max:30.56358319561592, min:29.667129430130505' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 5 of Language class 127 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.21219167806922, sd:9.340113314282837, max:90.29617034362576, min:60.0
+ACC: mean:24.200198446068555, sd:18.757492115569185, max:51.84441653885253, min:-4.426014081564276
+EDA: mean:0.5149098774950998, sd:0.1204107247765662, max:0.7214629249376281, min:0.2887521944268575
+TEMP: mean:30.208616519122117, sd:0.312172452833688, max:30.812622812043124, min:29.609323057275173' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 6 of Maths class 126 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:81.5386046011202, sd:9.984879451890995, max:97.09394985496336, min:66.90049793409077
+ACC: mean:28.611863805230826, sd:15.642450278363969, max:58.74712399013919, min:2.213431178589996
+EDA: mean:0.5465903161485836, sd:0.108441580973486, max:0.6697158492304294, min:0.3105361863457914
+TEMP: mean:30.005406924417464, sd:0.2039864567877005, max:30.30919118925582, min:29.593460408011413' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 7 of Language class 141 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:77.82615864840457, sd:7.062872505403363, max:86.05145424061126, min:65.61258322407349
+ACC: mean:32.1699801360685, sd:13.364896581564023, max:61.34398944425564, min:13.63784651642733
+EDA: mean:0.598624528819623, sd:0.1412831250843258, max:0.9022789482793334, min:0.4212006361332526
+TEMP: mean:30.32598093751214, sd:0.3209873684550683, max:30.820467812451746, min:29.78065835647271' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 7 of Politics class 113 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.315578493184, sd:14.51291337601623, max:110.86394380993964, min:60.0
+ACC: mean:27.543795853911767, sd:12.413182434636203, max:50.24516459821716, min:7.03574663951952
+EDA: mean:0.5111785013906394, sd:0.1454041194012169, max:0.7521429801524142, min:0.2886438721366375
+TEMP: mean:30.15493978604103, sd:0.2551431044511738, max:30.440946422784204, min:29.632171346722984' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 7 of Health class 118 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.74671338016155, sd:13.810517128438816, max:104.99192386531756, min:60.0
+ACC: mean:28.5004153143228, sd:14.773200394319105, max:55.43772156642545, min:-5.380295043000437
+EDA: mean:0.5071125601493606, sd:0.1198066944078819, max:0.6510136929740815, min:0.2461876820499024
+TEMP: mean:30.194771197031884, sd:0.287725406099308, max:30.55865941642601, min:29.744309065756006' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 8 of Maths class 140 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.36794478383707, sd:10.347708059945878, max:99.83971564614237, min:60.0
+ACC: mean:32.57352585479383, sd:14.34111599056842, max:57.47416401241637, min:8.742847546037602
+EDA: mean:0.5897814481137554, sd:0.1228905367422064, max:0.7889644502100286, min:0.4301870976547938
+TEMP: mean:30.218976665006423, sd:0.2470788423232894, max:30.545794430978507, min:29.834778861950912' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 8 of English class 108 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:85.12915951279966, sd:6.942117609757735, max:95.29314112025098, min:76.89273444105932
+ACC: mean:30.20622012954335, sd:16.502334055333332, max:53.02284980201756, min:-4.220604047379815
+EDA: mean:0.5720316140520751, sd:0.1278544174630725, max:0.7969373412517315, min:0.3773906599846529
+TEMP: mean:30.019504980874743, sd:0.2859929395089068, max:30.464019788887203, min:29.617442402186175' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 9 of Maths class 112 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:81.10899183280799, sd:9.675417236298332, max:97.3587594950164, min:64.38668880330385
+ACC: mean:19.230224963796275, sd:10.437009611804434, max:34.05293799880476, min:-0.4529527001773843
+EDA: mean:0.5677525906192383, sd:0.135318362171502, max:0.7059984846714561, min:0.3293777652073515
+TEMP: mean:30.18852047859321, sd:0.4262803126303904, max:31.0, min:29.67371454415325' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 9 of English class 155 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.36233685371226, sd:16.936207584799682, max:112.5295315884864, min:60.0
+ACC: mean:23.676642581265742, sd:14.410732953562, max:45.408567796843485, min:-1.4641591827146527
+EDA: mean:0.497259847772151, sd:0.109193246287067, max:0.6259870372138112, min:0.2659026815952067
+TEMP: mean:30.24236122269415, sd:0.2863875444431166, max:30.725958440619674, min:29.90620993091521' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 12 of Politics class 117 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:79.3393078693892, sd:14.81996928325158, max:113.22048326751133, min:64.22145602714706
+ACC: mean:24.61160109155395, sd:12.231299886276023, max:46.61712111287106, min:4.541873705262677
+EDA: mean:0.5300014472402762, sd:0.1474551964673904, max:0.7644687957525602, min:0.3188826617865878
+TEMP: mean:30.184738946734804, sd:0.3069764709135684, max:30.648671520944728, min:29.639989823958818' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 13 of Science class 105 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.61796567333359, sd:8.135820467989571, max:91.93254477190456, min:63.77950961570424
+ACC: mean:31.19588324183185, sd:13.241954057360363, max:51.5998245564896, min:9.34570306602513
+EDA: mean:0.5780805409197689, sd:0.0515773291979632, max:0.6573916073878673, min:0.4988080436456756
+TEMP: mean:30.31394859591561, sd:0.2344889758089465, max:30.790627192830183, min:29.971819800672456' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 14 of Maths class 148 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.89467755607214, sd:7.432271118423245, max:95.26914059379916, min:67.15197954300083
+ACC: mean:31.379199719893556, sd:8.945109525979197, max:44.77715997122844, min:17.49968245807996
+EDA: mean:0.553845757369525, sd:0.088773127675734, max:0.6827754124974487, min:0.3999740768926239
+TEMP: mean:30.21183733006749, sd:0.248950777049701, max:30.684956496354125, min:29.745001236114224' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 14 of Maths class 148 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.35951587815443, sd:13.783541867209578, max:111.58863445612998, min:68.133531828373
+ACC: mean:25.634753783541544, sd:7.141825118513399, max:38.829666611498254, min:13.286823673354553
+EDA: mean:0.5229636013981785, sd:0.1089895660096697, max:0.6968552347015798, min:0.3980041605872069
+TEMP: mean:30.224265669312405, sd:0.2840781404542764, max:30.770194712516627, min:29.84791088223596' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 14 of English class 153 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:75.58519152476536, sd:9.045252461264637, max:94.96764380797612, min:62.151506643152274
+ACC: mean:27.63093991376561, sd:11.13514417599772, max:43.49040013212502, min:9.27256139477242
+EDA: mean:0.5692094133324181, sd:0.1218575720117022, max:0.7349585373761585, min:0.3240975098239044
+TEMP: mean:30.18091425622263, sd:0.3506103537341995, max:30.835197243311285, min:29.73194875246101' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 15 of Maths class 149 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:77.35917057129635, sd:12.511741404691492, max:101.14967797843536, min:62.5274420798428
+ACC: mean:30.46252012490837, sd:18.311863005498367, max:55.327007253243934, min:-11.1995002363102
+EDA: mean:0.5893027863729126, sd:0.1067599185697872, max:0.7359782327594008, min:0.3506554713779293
+TEMP: mean:30.287832634482225, sd:0.3301642677229561, max:30.800576737774502, min:29.698600319709566' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 15 of Science class 139 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.97919698064018, sd:11.50437874481859, max:106.1275213705888, min:72.30666015016676
+ACC: mean:29.98856387724147, sd:12.645769742448731, max:62.15824253779702, min:16.3465477704278
+EDA: mean:0.5762124503470403, sd:0.1234467337810339, max:0.7921330975810078, min:0.3758904485687185
+TEMP: mean:30.10691513834904, sd:0.385927364729316, max:30.615461328138213, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 16 of Language class 151 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.81016611997565, sd:10.44664072208056, max:99.13904249703218, min:63.549895462051936
+ACC: mean:34.15818669431327, sd:8.27197485936886, max:51.39767444425088, min:21.51917068719142
+EDA: mean:0.556423500767355, sd:0.0900905957943564, max:0.7279399439663089, min:0.3907746928759573
+TEMP: mean:30.276402955460533, sd:0.2628854497049238, max:30.702927025353222, min:29.74905347912012' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 18 of Politics class 149 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.68982839536359, sd:12.128685499546515, max:103.62141547232348, min:68.45885095072158
+ACC: mean:32.398149780237304, sd:13.289410715554736, max:48.599604874331305, min:4.269750898345691
+EDA: mean:0.5038100437834525, sd:0.1093641233381369, max:0.6882656395682403, min:0.3713293292715308
+TEMP: mean:30.087441981724535, sd:0.3000134261915467, max:30.483965408427043, min:29.534003273733088' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 18 of English class 110 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.58060235951646, sd:12.945328882507866, max:105.80372951997452, min:67.94354167151845
+ACC: mean:22.831156074569044, sd:9.142245683029522, max:46.11344767140616, min:14.553742644225656
+EDA: mean:0.5151193858686958, sd:0.0902938623607099, max:0.6800258227993444, min:0.4312408854986478
+TEMP: mean:30.229762085330584, sd:0.2609924577876728, max:30.878770642500594, min:29.91494736137906' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 19 of English class 128 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.03397838800593, sd:7.987460752586431, max:88.16344598861308, min:63.72145937256153
+ACC: mean:23.39182699908727, sd:15.162315386886815, max:48.891703132650825, min:1.237009047133398
+EDA: mean:0.5045753826954158, sd:0.1248139206875384, max:0.6907237092622082, min:0.2
+TEMP: mean:30.064061064814705, sd:0.3288432583564552, max:30.56672064849515, min:29.63615991081615' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 19 of Maths class 134 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.05463190158119, sd:11.369986618347747, max:93.16490367695152, min:60.0
+ACC: mean:30.06246193924374, sd:11.035265960781215, max:45.08666947513504, min:17.538894348913214
+EDA: mean:0.5944459769276828, sd:0.1031918129230358, max:0.7482297204240854, min:0.3677893616788853
+TEMP: mean:30.138580711288363, sd:0.3326059492825035, max:30.67686899985877, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 20 of Language class 126 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.74080643081166, sd:9.142598479930374, max:100.030963308518, min:69.38868756367499
+ACC: mean:35.90002082678327, sd:13.037467982899674, max:65.81213057369433, min:9.9376561976796
+EDA: mean:0.5499324678990157, sd:0.0753395679078015, max:0.704291084381268, min:0.4131305812613735
+TEMP: mean:30.34103283667385, sd:0.3202111673121209, max:31.0, min:30.0347427589014' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 21 of Science class 132 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:77.62812033027151, sd:11.362918178022062, max:100.71197602513205, min:62.51271610160656
+ACC: mean:22.19506129697176, sd:16.06546109879482, max:51.64351069223747, min:-10.972027133173384
+EDA: mean:0.5653574992560431, sd:0.0612406969494802, max:0.6668004939536105, min:0.4592829650421986
+TEMP: mean:30.1132411253332, sd:0.274867698123843, max:30.748587578732547, min:29.747549237188345' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 21 of Maths class 124 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.62260059723495, sd:9.43905880029323, max:98.9221979070706, min:63.787106498582034
+ACC: mean:24.077178680035907, sd:10.672560307215202, max:43.721571202200295, min:5.4576228280919175
+EDA: mean:0.5709356523620668, sd:0.097670516509725, max:0.7613802272190404, min:0.3855692092950537
+TEMP: mean:30.312155458923137, sd:0.2863486078836902, max:30.86339990858046, min:29.89668886098628' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 22 of Politics class 106 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:77.7958517090952, sd:9.871494223572798, max:88.48370557364719, min:60.0
+ACC: mean:25.591117954959, sd:17.76977906292673, max:46.79846644643472, min:-10.609950813663149
+EDA: mean:0.5384907370301999, sd:0.1591179274332926, max:0.8135598681427028, min:0.2908877277616279
+TEMP: mean:30.11996848807359, sd:0.2072545655132451, max:30.385897007528943, min:29.671809066998748' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 22 of Politics class 154 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.37545148353232, sd:10.55032658244052, max:91.1704794687883, min:60.0
+ACC: mean:25.352717302632104, sd:13.898887378726752, max:41.31429870649416, min:-1.9980778495796516
+EDA: mean:0.6002050400031033, sd:0.1839019312323466, max:0.9185604041927202, min:0.2887316717323918
+TEMP: mean:30.132148126071165, sd:0.2045328621159147, max:30.539049407679837, min:29.89160177803477' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 23 of Science class 110 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:77.89198089533123, sd:10.259116593737328, max:93.9557705647021, min:61.48613421155345
+ACC: mean:24.333197443257816, sd:15.010070250570845, max:46.32585173620757, min:-1.1239566413943258
+EDA: mean:0.5970390343565672, sd:0.0848618614029506, max:0.7022030333795282, min:0.4025266112233729
+TEMP: mean:30.3222639054084, sd:0.2260276514699218, max:30.63723138481113, min:29.890400632590428' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 23 of English class 120 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:79.742761534616, sd:11.169893331575336, max:102.28006805501256, min:60.86980784329519
+ACC: mean:29.87524870577324, sd:11.13393024508304, max:48.8965392644965, min:9.350194635167387
+EDA: mean:0.5083152608264634, sd:0.1015404215963358, max:0.6866438736033578, min:0.3488991802537783
+TEMP: mean:30.18191022651997, sd:0.351413061022933, max:30.83818922412487, min:29.64637283455864' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 23 of Language class 122 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.2673764506595, sd:10.094013304151948, max:93.53509982620191, min:60.0
+ACC: mean:26.08615240668494, sd:8.820722498745974, max:44.36276483815568, min:13.755125119566902
+EDA: mean:0.5218266237796497, sd:0.1310458530165495, max:0.6816069049155141, min:0.2435642781221683
+TEMP: mean:30.169961066037608, sd:0.1999383735592225, max:30.418952910534493, min:29.78468655673589' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 23 of Health class 143 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.85049777534721, sd:9.15634487958301, max:96.31687106044424, min:64.85747067969818
+ACC: mean:19.82746741617222, sd:14.529994741732676, max:46.09372502656221, min:-3.991182925370904
+EDA: mean:0.5838700202125915, sd:0.0689962261592616, max:0.6681586957765133, min:0.4740004094163716
+TEMP: mean:30.147566732337715, sd:0.2261524921576258, max:30.563097154982465, min:29.79558972453649' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 25 of Science class 147 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.20199324588282, sd:5.187355677219499, max:85.48880891350093, min:70.63548074322979
+ACC: mean:28.107454418822336, sd:11.295473016230083, max:49.03818753118999, min:7.337804640580234
+EDA: mean:0.5697873250170093, sd:0.0580194511227548, max:0.6703265698212777, min:0.4769646055040722
+TEMP: mean:30.23211401214572, sd:0.3318057470914824, max:30.79065765536146, min:29.699664961835754' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 26 of Science class 157 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:76.90095694103476, sd:7.26899485249165, max:87.83456445766745, min:60.0
+ACC: mean:22.24624083880822, sd:10.66810133122949, max:35.14615969201391, min:0.4544808048322863
+EDA: mean:0.5098917585907, sd:0.1248749772867509, max:0.7819555810562241, min:0.3159079207154198
+TEMP: mean:30.368138746206057, sd:0.2847801315518792, max:30.70299060219109, min:29.923442396021727' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 26 of Maths class 103 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:85.0393258289364, sd:13.75903821829242, max:105.3745215476156, min:60.65961869675366
+ACC: mean:31.671459267003826, sd:10.304671251896057, max:45.40130284258888, min:6.671412869750334
+EDA: mean:0.5531780226848471, sd:0.1179870869903714, max:0.7229678932386112, min:0.384755177267553
+TEMP: mean:30.350887317502803, sd:0.2440726758357471, max:30.77041539967589, min:30.029030624176368' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Female student 26 of English class 112 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.45451998687345, sd:9.764398692827834, max:95.2061855808666, min:60.0
+ACC: mean:29.138068218731583, sd:11.605469196351605, max:46.01477658925354, min:6.904776972305928
+EDA: mean:0.5024689939169943, sd:0.1132301461067313, max:0.7018238665543539, min:0.3417242948973978
+TEMP: mean:30.034503197689656, sd:0.3080456468901086, max:30.391660662103664, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Politics class 108 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:81.13576107329638, sd:13.58716028635069, max:103.23096860866896, min:60.0
+ACC: mean:21.307142674208336, sd:7.787604325704885, max:37.49148605439068, min:11.619948389841923
+EDA: mean:0.5856058755462491, sd:0.116835106526803, max:0.769146457415336, min:0.4410810750110243
+TEMP: mean:30.402818061080986, sd:0.3206052289235236, max:30.926766672378783, min:29.90551722066678' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 27 of Science class 108 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:81.12698972041908, sd:11.394407122214792, max:109.48405331900616, min:66.7038032722308
+ACC: mean:26.82059990226163, sd:10.744852233224698, max:43.50234747515079, min:6.734067714399163
+EDA: mean:0.5362496397979011, sd:0.1218947080536448, max:0.741530715063309, min:0.4009415979050068
+TEMP: mean:30.2082921391616, sd:0.292243585351475, max:30.801831529225225, min:29.76549322461251' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 28 of Science class 109 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:77.33454771131981, sd:8.993450799748524, max:88.09285761268339, min:64.3198480322625
+ACC: mean:18.80663289418937, sd:7.496465133171153, max:32.52751397091962, min:9.035604744983008
+EDA: mean:0.4987728162380991, sd:0.130697787301193, max:0.7762802542066367, min:0.3295620206529825
+TEMP: mean:30.0117459955586, sd:0.2888098558658155, max:30.526045409020668, min:29.5653315757644' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 29 of English class 142 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:79.08347813809857, sd:11.591805259996866, max:101.69519406742964, min:60.0
+ACC: mean:25.90040846001823, sd:12.314404422258994, max:42.489134284295055, min:0.5481680194453169
+EDA: mean:0.5067799711737472, sd:0.0890328819365442, max:0.7268655148608095, min:0.4024818375024995
+TEMP: mean:30.225880247544616, sd:0.2429264421494112, max:30.597128618850583, min:29.772805899853708' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 29 of English class 154 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:83.6676575650111, sd:12.860505102022737, max:109.3397756079968, min:69.17362295632468
+ACC: mean:31.353545027978868, sd:14.076254875353069, max:57.77018558536939, min:11.916124245666524
+EDA: mean:0.5857739544853279, sd:0.1512481027178189, max:0.8231027058252239, min:0.3246730163307753
+TEMP: mean:30.17305138465021, sd:0.3019953343209933, max:30.551816353946933, min:29.5' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 29 of Politics class 154 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:74.09053548198457, sd:8.725892424165643, max:91.7005286566744, min:60.0
+ACC: mean:24.50684100272553, sd:8.56933937101393, max:38.63679202776184, min:11.536282747260472
+EDA: mean:0.588453704840334, sd:0.0983602646183063, max:0.6987445294281089, min:0.3611748131931722
+TEMP: mean:30.02917466894889, sd:0.2848943365316457, max:30.47249331236355, min:29.546065642410724' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,disengagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 30 of Science class 117 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:84.14472176260007, sd:11.779352515629313, max:103.65620778801548, min:61.30124181718556
+ACC: mean:25.84279947504235, sd:20.512396304783955, max:69.19853704407612, min:-8.237028289720278
+EDA: mean:0.501037572885137, sd:0.1176198786418852, max:0.6774154406144376, min:0.302958317655365
+TEMP: mean:30.272981109985817, sd:0.3831963971302083, max:30.756329270154996, min:29.74009952641897' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 30 of Language class 158 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:80.65402028731789, sd:9.488228959182951, max:96.10442397170874, min:68.55770328996034
+ACC: mean:24.527813171226924, sd:10.911469142851232, max:47.80643473155508, min:10.199648208010554
+EDA: mean:0.5992029458521576, sd:0.1348281353567337, max:0.7825828564932447, min:0.3381374453301038
+TEMP: mean:30.091246671708227, sd:0.2650481332522248, max:30.7027927613204, min:29.803165107582128' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,engagement
+"The engagement level of the following phrase: 'The following data were obtained from one Male student 30 of Science class 136 in any 10 minutes of 80. The statistics (mean, standard deviation, maximum, and minimum values) of heart rate (HR), acceleration (ACC), electrodermal activity (EDA), and skin temperature (TEMP) per minute are as follows:
+HR: mean:78.47714740314339, sd:10.937246270655027, max:104.88397010520508, min:66.86163809159777
+ACC: mean:31.98158241566804, sd:16.286935541038865, max:55.49598930383808, min:8.04906514797944
+EDA: mean:0.5302563504333074, sd:0.0655994049283672, max:0.6624647524698023, min:0.4525570150535408
+TEMP: mean:30.395629667790278, sd:0.4092514531323287, max:31.0, min:29.786963352512853' is
+            
+
+ Engagement
+            
+ Disengagement
+            
+ Neutral
+            
+ Cannot be determined
+            
+
+Solution: The correct option is",neutral,neutral
